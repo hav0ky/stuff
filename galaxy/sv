@@ -1,0 +1,4 @@
+[
+    { title: 'ASIA - SINGAPORE', code: 'SG', sort: 'ASIA' },
+    { title: 'ASIA - JAPAN', code: 'JP', sort: 'JAPAN' }
+]
