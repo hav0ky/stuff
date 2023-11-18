@@ -1,30 +1,30 @@
 [
     {
-        name: '## MATCHCLUB ## [IN | Asia [ MIRAGE ONLY indianhv',
-        ip: 'xx.xx.xx.xx',
-        port: 27015,
-        map: "de_mirage",
-        status: true
+        "name": "Server Name",
+        "ip": "xx.xx.xx.xx",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
     },
     {
-        name: 'Server Name',
-        ip: 'xx.xx.xx.xx',
-        port: 27015,
-        map: "de_mirage",
-        status: true
+        "name": "Server Name",
+        "ip": "xx.xx.xx.xx",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
     },
     {
-        name: 'Server Name',
-        ip: 'xx.xx.xx.xx',
-        port: 27015,
-        map: "de_mirage",
-        status: false
+        "name": "Server Name",
+        "ip": "xx.xx.xx.xx",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": false
     },
     {
-        name: 'Server Name',
-        ip: 'xx.xx.xx.xx',
-        port: 27015,
-        map: "de_mirage",
-        status: true
+        "name": "Server Name",
+        "ip": "xx.xx.xx.xx",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
     }
 ]
