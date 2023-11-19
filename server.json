@@ -26,5 +26,12 @@
         "port": 27015,
         "map": "de_mirage",
         "status": true
+    },
+    {
+        "name": "16k Mirage || DXB || galaxycommunity.net",
+        "ip": "3.29.35.142",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
     }
 ]
