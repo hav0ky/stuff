@@ -18,13 +18,13 @@
         "ip": "15.235.151.54",
         "port": 27015,
         "map": "de_mirage",
-        "status": false
+        "status": true
     },
     {
         "name": "Server Name",
         "ip": "xx.xx.xx.xx",
         "port": 27015,
         "map": "de_mirage",
-        "status": true
+        "status": false
     }
 ]
