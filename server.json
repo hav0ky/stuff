@@ -7,13 +7,6 @@
         "status": true
     },
     {
-        "name": "Pug 5v5 || ASIA IND || galaxycommunity.net",
-        "ip": "13.233.138.149",
-        "port": 27015,
-        "map": "de_mirage",
-        "status": true
-    },
-    {
         "name": "Pug 5v5 || ASIA SGP || galaxycommunity.net",
         "ip": "15.235.151.54",
         "port": 27015,
@@ -21,10 +14,17 @@
         "status": true
     },
     {
-        "name": "Server Name",
-        "ip": "xx.xx.xx.xx",
+        "name": "16k Mirage || ASIA IND || galaxycommunity.net",
+        "ip": "13.232.166.132",
         "port": 27015,
         "map": "de_mirage",
-        "status": false
+        "status": true
+    },
+    {
+        "name": "Pug 5v5 || ASIA IND || galaxycommunity.net",
+        "ip": "13.233.138.149",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
     }
 ]
