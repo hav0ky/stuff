@@ -1,35 +1,70 @@
 [
     {
-        "name": "16k Mirage || ASIA SGP || galaxycommunity.net",
-        "ip": "157.254.166.0",
+        "name": "Scout Only || ASIA SGP || galaxycommunity.net",
+        "ip": "scout.galaxyhvh.com",
         "port": 30007,
         "map": "de_mirage",
         "status": true
     },
     {
+        "name": "Scout Only Spread || ASIA SGP || galaxycommunity.net",
+        "ip": "spread.galaxyhvh.com",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "All Maps || ASIA SGP || galaxycommunity.net",
+        "ip": "allmaps.galaxyhvh.com",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
         "name": "Pug 5v5 || ASIA SGP || galaxycommunity.net",
-        "ip": "15.235.151.54",
+        "ip": "pug5v5.galaxyhvh.com",
         "port": 27015,
         "map": "de_mirage",
         "status": true
     },
     {
-        "name": "16k Mirage || ASIA IND || galaxycommunity.net",
-        "ip": "13.232.166.132",
+        "name": "India Spread || ASIA IND || galaxycommunity.net",
+        "ip": "india.galaxyhvh.com",
         "port": 27015,
         "map": "de_mirage",
         "status": true
     },
     {
-        "name": "Pug 5v5 || ASIA IND || galaxycommunity.net",
-        "ip": "13.233.138.149",
+        "name": "Dubai Spread || DXB || galaxycommunity.net",
+        "ip": "dxb16k.galaxyhvh.com",
         "port": 27015,
         "map": "de_mirage",
         "status": true
     },
     {
-        "name": "16k Mirage || DXB || galaxycommunity.net",
-        "ip": "3.29.35.142",
+        "name": "Japan 16k || ASIA JP || galaxycommunity.net",
+        "ip": "japan.galaxyhvh.com",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "Australia || AU Sydney || galaxycommunity.net",
+        "ip": "au.galaxyhvh.com",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "Brazil 16k || Brazil || galaxycommunity.net",
+        "ip": "brazil.galaxyhvh.com",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "NA 16k Mirage || NA || galaxycommunity.net",
+        "ip": "na.galaxyhvh.com",
         "port": 27015,
         "map": "de_mirage",
         "status": true
