@@ -5,8 +5,7 @@
     "tag": "hallo",
     "flag": "DE",
     "players": {
-      "12345678901234567": "Apfelwurm",
-      "12345678901234568": "strange name"
+      "76561199091191827": "Apfelwurm"
     }
   },
   "team2": {
@@ -14,13 +13,12 @@
     "tag": "asd",
     "flag": "DE",
     "players": {
-      "12345678901234569": "BOT R00st3r",
-      "76561198064576360": "heatwave"
+      "76561199072787245": "BOT R00st3r"
     }
   },
   "matchid": "40",
   "num_maps": 1,
-  "players_per_team": 2,
+  "players_per_team": 1,
   "min_players_to_ready": 2,
   "max_rounds": 24,
   "max_overtime_rounds": 6,
