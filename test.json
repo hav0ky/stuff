@@ -5,7 +5,8 @@
     "tag": "hallo",
     "flag": "DE",
     "players": {
-      "76561199091191827": "beasty",
+      "12345678901234567": "Apfelwurm",
+      "12345678901234568": "strange name"
     }
   },
   "team2": {
@@ -13,17 +14,18 @@
     "tag": "asd",
     "flag": "DE",
     "players": {
-      "76561199072787245": "hv",
+      "12345678901234569": "BOT R00st3r",
+      "76561198064576360": "heatwave"
     }
   },
   "matchid": "40",
   "num_maps": 1,
-  "players_per_team": 1,
+  "players_per_team": 2,
   "min_players_to_ready": 2,
-  "max_rounds": 15,
+  "max_rounds": 24,
   "max_overtime_rounds": 6,
   "vote_timeout": 60000,
-  "eventula_apistats_url": "https://galaxycommunity.net",
+  "eventula_apistats_url": "https://dev.lan2play.de/api/matchmaking/40/",
   "eventula_apistats_token": "Bearer S0XRU0UhIExFQ0tFUiEK",
   "eventula_demo_upload_url": "https://dev.lan2play.de/api/matchmaking/40/demo",
   "vote_map": "de_inferno",
