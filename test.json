@@ -1,37 +1,31 @@
 {
-  "matchid": "2",
+  "maplist": ["de_vertigo", "de_dust2", "de_inferno", "de_mirage", "de_nuke", "de_overpass", "de_ancient"],
   "team1": {
-    "name": "Astralis",
+    "name": "hallo",
+    "tag": "hallo",
+    "flag": "DE",
     "players": {
-      "76561199107838150": "hav0k"
+      "76561199091191827": "beasty",
     }
   },
   "team2": {
-    "name": "NaVi",
+    "name": "asd",
+    "tag": "asd",
+    "flag": "DE",
     "players": {
-      "76561199072787245": "hv"
+      "76561199072787245": "hv",
     }
   },
-  "num_maps": 3,
-  "maplist": [
-    "de_mirage",
-    "de_overpass",
-    "de_inferno"
-  ],
-  "map_sides": [
-    "team1_ct",
-    "team2_ct",
-    "knife"
-  ],
-  "spectators": {
-    "players": {
-      "76561198264582285": "Anders Blume"
-    }
-  },
-  "clinch_series": true,
+  "matchid": "40",
+  "num_maps": 1,
   "players_per_team": 1,
-  "cvars": {
-    "hostname": "MatchZy: Astralis vs NaVi #27",
-    "mp_friendlyfire": "0"
-  }
+  "min_players_to_ready": 2,
+  "max_rounds": 15,
+  "max_overtime_rounds": 6,
+  "vote_timeout": 60000,
+  "eventula_apistats_url": "https://galaxycommunity.net",
+  "eventula_apistats_token": "Bearer S0XRU0UhIExFQ0tFUiEK",
+  "eventula_demo_upload_url": "https://dev.lan2play.de/api/matchmaking/40/demo",
+  "vote_map": "de_inferno",
+  "server_locale": "en"
 }
