@@ -1,6 +1,7 @@
 {
   "maplist": ["de_vertigo", "de_dust2", "de_inferno", "de_mirage", "de_nuke", "de_overpass", "de_ancient"],
   "team1": {
+    "id": "123123",
     "name": "hallo",
     "tag": "hallo",
     "flag": "DE",
@@ -9,6 +10,7 @@
     }
   },
   "team2": {
+     "id": "12234523",
     "name": "asd",
     "tag": "asd",
     "flag": "DE",
