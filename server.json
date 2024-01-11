@@ -1,8 +1,8 @@
 [
- {
+    {
         "name": "All Maps || North America || galaxycommunity.net",
-        "ip": "121.127.40.170",
-        "port": 26543,
+        "ip": "172.65.198.215",
+        "port": 27015,
         "map": "de_mirage",
         "status": true
     },
@@ -15,15 +15,29 @@
     },
     {
         "name": "All Maps || Europe || galaxycommunity.net",
-        "ip": "34.251.189.20",
+        "ip": "172.65.207.106",
         "port": 27015,
         "map": "de_mirage",
         "status": true
     },
     {
         "name": "Scout Only Spread || Europe || galaxycommunity.net",
-        "ip": "181.214.231.239",
-        "port": 27043,
+        "ip": "172.65.202.227",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "Scout Only Spread || Asia || galaxycommunity.net",
+        "ip": "157.254.166.0",
+        "port": 30007,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "All Maps || India || galaxycommunity.net",
+        "ip": "172.65.189.237",
+        "port": 27015,
         "map": "de_mirage",
         "status": true
     }
