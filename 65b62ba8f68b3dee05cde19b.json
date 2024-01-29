@@ -22,9 +22,5 @@
     {
         "title": "Exploits",
         "desc": "Utilizing any exploit that causes lag or disrupts the normal functioning of the server will lead to disqualification."
-    },
-    {
-        "title": "Map Choose",
-        "desc": "The map type will be Wingman, and the selection process will follow a veto system."
     }
 ]
