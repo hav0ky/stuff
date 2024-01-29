@@ -8,6 +8,10 @@
         "desc": "Participation is open to individuals worldwide, without any regional restrictions."
     },
     {
+        "title": "Server Locations",
+        "desc": "Players need to select their preferred server location, and matches will be organized accordingly. (Ensure you select the region with the lowest latency/ping from the provided data centers.)"
+    },
+    {
         "title": "Match format",
         "desc": "All matches will be in a Best of 1 format. All matches have overtime enabled. Except for semifinals and finals, all matches will follow a single-elimination format, while the semifinals and finals will be conducted as best of three."
     },
