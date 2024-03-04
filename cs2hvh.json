@@ -1,56 +1,56 @@
 [
    {
       "ip":"157.254.166.0",
-      "code":"sg",
+      "code":"SG",
       "port":30007,
       "domain":"",
       "country":"Singapore"
    },
    {
       "ip":"172.65.189.237",
-      "code":"in",
+      "code":"IN",
       "port":27015,
       "domain":"india.galaxyhvh.com",
       "country":"India"
    },
    {
       "ip":"157.254.166.0",
-      "code":"sg",
+      "code":"SG",
       "port":30003,
       "domain":"",
       "country":"Singapore"
    },
    {
       "ip":"172.65.178.177",
-      "code":"hk",
+      "code":"HK",
       "port":27015,
       "domain":"hkg.cs2hvh.com",
       "country":"Hong Kong"
    },
    {
       "ip":"51.161.198.45",
-      "code":"au",
+      "code":"AU",
       "port":30000,
       "domain":"",
       "country":"Australia"
    },
    {
       "ip":"45.136.204.186",
-      "code":"ru",
+      "code":"RU",
       "port":27015,
       "domain":"ru.galaxyhvh.com",
       "country":"Russia"
    },
    {
       "ip":"172.65.160.156",
-      "code":"au",
+      "code":"AU",
       "port":27015,
       "domain":"au.cs2hvh.com",
       "country":"Australia"
    },
    {
       "ip":"15.204.196.155",
-      "code":"us",
+      "code":"US",
       "port":30039,
       "domain":"",
       "country":"USA"
