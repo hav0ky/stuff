@@ -1,22 +1,22 @@
 [
    {
+      "ip":"14.102.233.130",
+      "code":"US",
+      "port":27015,
+      "domain":"",
+      "country":"USA"
+   },
+   {
+      "ip":"149.18.63.112",
+      "code":"DE",
+      "port":27015,
+      "domain":"",
+      "country":"Germany"
+   },
+   {
       "ip":"157.254.166.0",
       "code":"SG",
       "port":30007,
-      "domain":"",
-      "country":"Singapore"
-   },
-   {
-      "ip":"172.65.189.237",
-      "code":"IN",
-      "port":27015,
-      "domain":"india.galaxyhvh.com",
-      "country":"India"
-   },
-   {
-      "ip":"157.254.166.0",
-      "code":"SG",
-      "port":30003,
       "domain":"",
       "country":"Singapore"
    },
