@@ -40,12 +40,5 @@
       "port":27015,
       "domain":"au.cs2hvh.com",
       "country":"Australia"
-   },
-   {
-      "ip":"15.204.196.155",
-      "code":"US",
-      "port":30039,
-      "domain":"",
-      "country":"USA"
    }
 ]
