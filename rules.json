@@ -1,7 +1,7 @@
 [
     {
-        label: "Some Label",
-        rules: [
+        "label": "Some Label",
+        "rules": [
             {
                 "title": "You must register and have an account on cs2hvh.com",
                 "desc": "Registration and account creation on cs2hvh.com are mandatory."
@@ -19,12 +19,12 @@
                 "desc": "All matches will be in a Best of 1 format. All matches have overtime enabled. Except for semifinals and finals, all matches will follow a single-elimination format, while the semifinals and finals will be conducted as best of three."
             },
             {
-                "title": "Players Settings.",
-                "desc": "Players are required to report 30 minutes prior to their match. There will be no waiting for any team/player. Matches can only be reschuled if other 2 teams are ready to faceoff."
+                "title": "Players Settings",
+                "desc": "Players are required to report 30 minutes prior to their match. There will be no waiting for any team/player. Matches can only be rescheduled if the other 2 teams are ready to face off."
             },
             {
                 "title": "Match Timings",
-                "desc": "All matches will conducted on weekends that is Saturdays/Sundays."
+                "desc": "All matches will be conducted on weekends, that is, Saturdays/Sundays."
             },
             {
                 "title": "Exploits",
@@ -33,8 +33,8 @@
         ]       
     },
     {
-        label: "Some Label 2",
-        rules: [
+        "label": "Some Label 2",
+        "rules": [
             {
                 "title": "Yasdasd",
                 "desc": "Rasdasdasdadasd."
