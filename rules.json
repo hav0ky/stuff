@@ -1,0 +1,30 @@
+[
+    {
+        "title": "You must register and have an account on cs2hvh.com",
+        "desc": "Registration and account creation on cs2hvh.com are mandatory."
+    },
+    {
+        "title": "Who can play?",
+        "desc": "Participation is open to individuals worldwide, without any regional restrictions."
+    },
+    {
+        "title": "Server Locations",
+        "desc": "Players need to select their preferred server location, and matches will be organized accordingly. (Ensure you select the region with the lowest latency/ping from the provided data centers.)"
+    },
+    {
+        "title": "Match format",
+        "desc": "All matches will be in a Best of 1 format. All matches have overtime enabled. Except for semifinals and finals, all matches will follow a single-elimination format, while the semifinals and finals will be conducted as best of three."
+    },
+    {
+        "title": "Players Settings.",
+        "desc": "Players are required to report 30 minutes prior to their match. There will be no waiting for any team/player. Matches can only be reschuled if other 2 teams are ready to faceoff."
+    },
+    {
+        "title": "Match Timings",
+        "desc": "All matches will conducted on weekends that is Saturdays/Sundays."
+    },
+    {
+        "title": "Exploits",
+        "desc": "Utilizing any exploit that causes lag or disrupts the normal functioning of the server will lead to disqualification."
+    }
+]
