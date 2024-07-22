@@ -1,0 +1,26 @@
+[
+    {
+        "id": "staff",
+        "name": "Staff Application Form",
+        "description": "Application form for new staff members",
+        "status": 1,
+        "image": "/img/2.gif",
+        "questions": [
+            {
+                "id": 1,
+                "question_text": "What is your full name?",
+                "question_type": "text"
+            },
+            {
+                "id": 2,
+                "question_text": "Why do you want to join our team?",
+                "question_type": "text"
+            },
+            {
+                "id": 3,
+                "question_text": "What is your availability?",
+                "question_type": "text"
+            }
+        ]
+    }
+]
