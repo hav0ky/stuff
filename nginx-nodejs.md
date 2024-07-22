@@ -23,6 +23,7 @@ git clone https://github.com/piyushgargdev-01/short-url-nodejs
 
 ## 5. Install dependencies and test app
 ```
+pm2 start npm --  start --name rpweb
 sudo npm i pm2 -g
 pm2 start index
 
