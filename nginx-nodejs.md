@@ -17,13 +17,12 @@ git clone https://github.com/piyushgargdev-01/short-url-nodejs
 
 ## 3. Install dependencies and test app
 ```
-pm2 start npm --  start --name rpweb
-pm2 start npm --  start
 sudo npm i pm2 -g
 pm2 start index
 
 # Other pm2 commands
 pm2 show app
+pm2 start npm --  start
 pm2 status
 pm2 restart app
 pm2 stop app
@@ -47,14 +46,14 @@ sudo ufw allow https (Port 443)
 ```
 sudo apt install nginx
 
-sudo nano /etc/nginx/sites-available/default
+sudo vim /etc/nginx/sites-available/default
 ```
 Add the following to the location part of the server block
 ```
     server_name yourdomain.com www.yourdomain.com;
 
     location / {
-        proxy_pass http://localhost:8001; #whatever port your app runs on
+        proxy_pass http://localhost:3000; #whatever port your app runs on
         proxy_http_version 1.1;
         proxy_set_header Upgrade $http_upgrade;
         proxy_set_header Connection 'upgrade';
