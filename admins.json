@@ -1,255 +1,37 @@
-[
-  {
-    "id": "532229388335579137",
-    "username": "ahurasense",
-    "global_name": "Ahura",
-    "avatar": {
-      "id": "36d406c32ced86d0844ab144718a7442",
-      "link": "https://cdn.discordapp.com/avatars/532229388335579137/36d406c32ced86d0844ab144718a7442",
-      "is_animated": false
-    },
-    "role": "General Manager"
-  },
-  {
-    "id": "564816842003054622",
-    "username": "lakshx",
-    "global_name": "Luxx",
-    "avatar": {
-      "id": "8671666df3093ee13a62b81962ad01a7",
-      "link": "https://cdn.discordapp.com/avatars/564816842003054622/8671666df3093ee13a62b81962ad01a7",
-      "is_animated": false
-    },
-    "role": "General Manager"
-  },
-  {
-    "id": "997802262153928734",
-    "username": "flintum",
-    "global_name": "Alive",
-    "avatar": {
-      "id": "d8fcc5e53aee8ac9dac4f82e360692c8",
-      "link": "https://cdn.discordapp.com/avatars/997802262153928734/d8fcc5e53aee8ac9dac4f82e360692c8",
-      "is_animated": false
-    },
-    "role": "General Manager"
-  },
-  {
-    "id": "704255030550855711",
-    "username": "vertical17",
-    "global_name": "' VeRTiCaLᴱᴿᴷ",
-    "avatar": {
-      "id": "e156a766661799e16be550593ef72c02",
-      "link": "https://cdn.discordapp.com/avatars/704255030550855711/e156a766661799e16be550593ef72c02",
-      "is_animated": false
-    },
-    "role": "Management"
-  },
-  {
-    "id": "267897787943878656",
-    "username": "killswitch_erk",
-    "global_name": "' KIllSWITCH ᴱᴿᴷ",
-    "avatar": {
-      "id": "59a1ba95c08551ef45a777c0d4912905",
-      "link": "https://cdn.discordapp.com/avatars/267897787943878656/59a1ba95c08551ef45a777c0d4912905",
-      "is_animated": false
-    },
-    "role": "Management"
-  },
-  {
-    "id": "1016780638373806111",
-    "username": "_ssumeet",
-    "global_name": "*kaka*",
-    "avatar": {
-      "id": "a_54f9518bbdc8180c2976f9ba8290424c",
-      "link": "https://cdn.discordapp.com/avatars/1016780638373806111/a_54f9518bbdc8180c2976f9ba8290424c",
-      "is_animated": true
-    },
-    "role": "Management"
-  },
-  {
-    "id": "787356473180946492",
-    "username": "paradise_sct",
-    "global_name": "PARADISE",
-    "avatar": {
-      "id": "100bfabbe79948290f198a477407c55e",
-      "link": "https://cdn.discordapp.com/avatars/787356473180946492/100bfabbe79948290f198a477407c55e",
-      "is_animated": false
-    },
-    "role": "Management"
-  },
-  {
-    "id": "719537535080071209",
-    "username": "ved_vnv",
-    "global_name": "Ved",
-    "avatar": {
-      "id": "2fa31944ebd5dba461938dd9b873dfc5",
-      "link": "https://cdn.discordapp.com/avatars/719537535080071209/2fa31944ebd5dba461938dd9b873dfc5",
-      "is_animated": false
-    },
-    "role": "Management"
-  },
-  {
-    "id": "807579552771604510",
-    "username": "blooney",
-    "global_name": "- 𝑩𝒍𝒐𝒐𝒏𝒔",
-    "avatar": {
-      "id": "310e0a0163167b5e9fe5b9e3b965e9b8",
-      "link": "https://cdn.discordapp.com/avatars/807579552771604510/310e0a0163167b5e9fe5b9e3b965e9b8",
-      "is_animated": false
-    },
-    "role": "Community Manager"
-  },
-  {
-    "id": "663688880662249503",
-    "username": "nemoo_13",
-    "global_name": "nemo",
-    "avatar": {
-      "id": null,
-      "link": null,
-      "is_animated": false
-    },
-    "role": "Community Manager"
-  },
-  {
-    "id": "621254403978035200",
-    "username": "just.rega",
-    "global_name": "Shailesh",
-    "avatar": {
-      "id": "fd0937a5f4ba7e2099f1232c1c65b116",
-      "link": "https://cdn.discordapp.com/avatars/621254403978035200/fd0937a5f4ba7e2099f1232c1c65b116",
-      "is_animated": false
-    },
-    "role": "Community Manager"
-  },
-  {
-    "id": "504180570956365825",
-    "username": "rick_playz",
-    "global_name": "𝐑𝐢𝐜𝐤",
-    "avatar": {
-      "id": "a_646dd61528a057b336f7a0ad0b3d603b",
-      "link": "https://cdn.discordapp.com/avatars/504180570956365825/a_646dd61528a057b336f7a0ad0b3d603b",
-      "is_animated": true
-    },
-    "role": "Lead Crew"
-  },
-  {
-    "id": "1010621483745300561",
-    "username": "gojo_satoru6996",
-    "global_name": "! Gojo Satoru",
-    "avatar": {
-      "id": "9ad30f39af14d11c61724c02358579b5",
-      "link": "https://cdn.discordapp.com/avatars/1010621483745300561/9ad30f39af14d11c61724c02358579b5",
-      "is_animated": false
-    },
-    "role": "Lead Crew"
-  },
-  {
-    "id": "693405234776768592",
-    "username": "falconbeast_erk",
-    "global_name": "' FaLcOn Beast ᴱᴿᴷ",
-    "avatar": {
-      "id": "7a23e2995ba0441156f889cefc6e7787",
-      "link": "https://cdn.discordapp.com/avatars/693405234776768592/7a23e2995ba0441156f889cefc6e7787",
-      "is_animated": false
-    },
-    "role": "Lead Crew"
-  },
-  {
-    "id": "487941272489951235",
-    "username": "unclebones_",
-    "global_name": "B O N E S キラー",
-    "avatar": {
-      "id": "a_18933ebcf5ccd7981209e643f5aac06f",
-      "link": "https://cdn.discordapp.com/avatars/487941272489951235/a_18933ebcf5ccd7981209e643f5aac06f",
-      "is_animated": true
-    },
-    "role": "Lead Crew"
-  },
-  {
-    "id": "735140377820135465",
-    "username": "nemesis2pro",
-    "global_name": "Nemesis2pro",
-    "avatar": {
-      "id": "e31a6ee38a57db041d3f6716c257a179",
-      "link": "https://cdn.discordapp.com/avatars/735140377820135465/e31a6ee38a57db041d3f6716c257a179",
-      "is_animated": false
-    },
-    "role": "Lead Crew"
-  },
-  {
-    "id": "443711126396600330",
-    "username": "lexycap",
-    "global_name": "lexy",
-    "avatar": {
-      "id": "a_b8b538623c6da7c07f253d842ad944a8",
-      "link": "https://cdn.discordapp.com/avatars/443711126396600330/a_b8b538623c6da7c07f253d842ad944a8",
-      "is_animated": true
-    },
-    "role": "Crew"
-  },
-  {
-    "id": "697116568362025070",
-    "username": "lazy.x",
-    "global_name": "Lazzzyyy",
-    "avatar": {
-      "id": "dae1c902652d98c55033d5fed9c9e848",
-      "link": "https://cdn.discordapp.com/avatars/697116568362025070/dae1c902652d98c55033d5fed9c9e848",
-      "is_animated": false
-    },
-    "role": "Crew"
-  },
-  {
-    "id": "648434785772896267",
-    "username": "marcojod",
-    "global_name": "MarcoJOD🥂",
-    "avatar": {
-      "id": "7b9f23bf8eeaaaef2460493553eb050c",
-      "link": "https://cdn.discordapp.com/avatars/648434785772896267/7b9f23bf8eeaaaef2460493553eb050c",
-      "is_animated": false
-    },
-    "role": "Crew"
-  },
-  {
-    "id": "521270465558478859",
-    "username": "as1524",
-    "global_name": null,
-    "avatar": {
-      "id": "44b6a1ac54c1effb1722be9a83e41122",
-      "link": "https://cdn.discordapp.com/avatars/521270465558478859/44b6a1ac54c1effb1722be9a83e41122",
-      "is_animated": false
-    },
-    "role": "Support Team"
-  },
-  {
-    "id": "926563072305410108",
-    "username": "mountai.n",
-    "global_name": "Mountain",
-    "avatar": {
-      "id": "a_c852188e991233ac4359a1db2af8d709",
-      "link": "https://cdn.discordapp.com/avatars/926563072305410108/a_c852188e991233ac4359a1db2af8d709",
-      "is_animated": true
-    },
-    "role": "Support Team"
-  },
-  {
-    "id": "774890622792105994",
-    "username": "the___matrix",
-    "global_name": "The matrix",
-    "avatar": {
-      "id": "ecddd3427da7b3006e2b753dfd8382de",
-      "link": "https://cdn.discordapp.com/avatars/774890622792105994/ecddd3427da7b3006e2b753dfd8382de",
-      "is_animated": false
-    },
-    "role": "Support Team"
-  },
-  {
-    "id": "752862619190427729",
-    "username": "strqker",
-    "global_name": "str",
-    "avatar": {
-      "id": "6055ae546e518fb738020904624a614a",
-      "link": "https://cdn.discordapp.com/avatars/752862619190427729/6055ae546e518fb738020904624a614a",
-      "is_animated": false
-    },
-    "role": "Support Team"
-  }
-]
+{
+    "General Manager": [
+        "532229388335579137",
+        "564816842003054622",
+        "997802262153928734",
+    ],
+    "Management": [
+        "704255030550855711",
+        "267897787943878656",
+        "1016780638373806111",
+        "787356473180946492",
+        "719537535080071209"
+    ],
+    "Community Manager": [
+        "807579552771604510",
+        "663688880662249503",
+        "621254403978035200"
+    ],
+    "Lead Crew": [
+        "504180570956365825",
+        "1010621483745300561",
+        "693405234776768592",
+        "487941272489951235",
+        "735140377820135465"
+    ],
+    "Crew": [
+        "443711126396600330",
+        "697116568362025070",
+        "648434785772896267"
+    ],
+    "Support Team": [
+        "521270465558478859",
+        "926563072305410108",
+        "774890622792105994",
+        "752862619190427729"
+    ]
+}
