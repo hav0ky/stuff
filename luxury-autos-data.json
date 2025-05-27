@@ -30,63 +30,63 @@
         "name": "Benefactor Schlagen GT",
         "tier": "premium",
         "description": "A perfect blend of luxury and performance with German engineering excellence.",
-        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 325000
       },
       {
         "name": "Grotti Carbonizzare",
         "tier": "premium",
         "description": "Italian engineering at its finest. This elegant roadster combines classic styling with modern performance.",
-        "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 195000
       },
       {
         "name": "Lampadati Tigon",
         "tier": "premium",
         "description": "Modern Italian supercar with aggressive styling and incredible performance.",
-        "image": "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 275000
       },
       {
         "name": "Pegassi Zentorno",
         "tier": "luxury",
         "description": "An Italian masterpiece with aggressive styling and track-focused performance.",
-        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 875000
       },
       {
         "name": "Grotti X80 Proto",
         "tier": "luxury",
         "description": "Cutting-edge prototype supercar featuring the latest in automotive technology.",
-        "image": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 1200000
       },
       {
         "name": "Overflod Entity XXR",
         "tier": "luxury",
         "description": "Swedish engineering meets extreme performance. Built for pure speed.",
-        "image": "https://images.unsplash.com/photo-1614200187524-dc4b892acf16?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 995000
       },
       {
         "name": "Truffade Adder",
         "tier": "exclusive",
         "description": "The pinnacle of automotive engineering. This French hypercar represents the absolute limit of speed and luxury.",
-        "image": "https://images.unsplash.com/photo-1544829099-b9a0c5303bea?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 2100000
       },
       {
         "name": "Progen T20",
         "tier": "exclusive",
         "description": "British hypercar engineering at its absolute finest. Limited to only 20 units worldwide.",
-        "image": "https://images.unsplash.com/photo-1600705722908-bab1e61c0b4d?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 1850000
       },
       {
         "name": "Vapid FMJ",
         "tier": "exclusive",
         "description": "American muscle meets supercar technology in this track-focused beast.",
-        "image": "https://images.unsplash.com/photo-1612825173281-9a193378527e?w=800&h=450&fit=crop",
+        "image": "https://samatva.blr1.cdn.digitaloceanspaces.com/images/rp1.jpg",
         "price": 1750000
       }
     ]
